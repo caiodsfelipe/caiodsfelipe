@@ -1,6 +1,6 @@
-### Olá 👋
+### Hi 👋
 
-- 🔭 Atualmente trabalho com Desenvolvimento Web e em paralelo estou atuando na área de pesquisa de Inteligência Artificial aplicada à diagnóstico médico.
-- 🌱 Sou graduando em Informática Biomédica pela Universidade Federal de Ciências da Saúde de Porto Alegre. Além disso, sou Téncnico em Informática pelo IFSP.
-- 📫 Como entrar em contato: caiodossantosfelipe@hotmail.com.
-- 🔥 Meu trabalho mais recente: [An Approach in Brain Tumor Classification: The Development of a New Convolutional Neural Network Model](https://doi.org/10.5753/eniac.2023.233530)
+- 🔭 Currently working on Web Development and acting as an AI researcher in the meantime.
+- 🌱 Undergraduate Biomedical Informatics Student at the Federal Univerisity of Health Sciences of Porto Alegre.
+- 📫 Contact me: caiodossantosfelipe@hotmail.com.
+- 🔥 Most recent work: [An Approach in Brain Tumor Classification: The Development of a New Convolutional Neural Network Model](https://doi.org/10.5753/eniac.2023.233530)
